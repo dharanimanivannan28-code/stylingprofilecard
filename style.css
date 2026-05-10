@@ -16,6 +16,7 @@ body{
     margin: 20px;
     vertical-align:top;
     display:inline-block;
+    padding: 40px;
 }
 .card img{
     width:100%;
