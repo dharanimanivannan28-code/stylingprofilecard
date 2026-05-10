@@ -4,9 +4,10 @@
 }
 body{
     background-color: blue;
-    height: 100px;
-    padding: 10px;
     text-align:center;
-
-
+}
+.card{
+    background-color: white;
+    padding: 30px;
+    
 }
