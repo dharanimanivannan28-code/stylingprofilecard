@@ -45,7 +45,7 @@ h1{
 .socials{
     display:inline;
 }
-.a{
+.socials a{
     margin-left: 20px;
     border-color: aqua;
     border-radius: 30px;
