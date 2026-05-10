@@ -11,9 +11,9 @@ body{
     height: 800px;
 }
 .card{
-    background-color: black;
+    background-color: white;
     padding: 30px;
-    border-color: white;
+    border-color: black;
     border-width: 3px;
     border-style:solid;
     width:300px;
