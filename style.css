@@ -32,5 +32,17 @@ body{
     margin:auto;  
      transform:scale(1.3); 
 }
-
+h1{
+    padding: 20px;
+}
+.role{
+    color: blue;
+    padding: 10px;
+}
+.desc{
+    padding:20px;
+}
+.socials{
+    
+}
 
