@@ -36,7 +36,8 @@ h1{
     padding: 30px;
 }
 .role{
-    color: blue:
+    color: blue;
+    font-size: 3px;
 }
 .desc{
     padding:20px;
