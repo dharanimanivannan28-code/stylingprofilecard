@@ -46,8 +46,13 @@ h1{
     display:inline;
 }
 .socials a{
+    color: purple;
+    background-color: antiquewhite;
+    padding:8px 14px;
     margin-left: 20px;
     border-color: aqua;
-    border-radius: 30px;
+    border-radius: 10px;
+    font-size: 14px;
+    
 }
 
